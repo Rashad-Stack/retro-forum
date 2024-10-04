@@ -1,5 +1,5 @@
 live link:
-https://scooby-forum.netlify.app/
+[https://scooby-forum.netlify.app/](https://scooby-forum.surge.sh/)
 
 # B9A6-Retro-Forum
 
